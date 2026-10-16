@@ -1,0 +1,16 @@
+node_modules/
+*/node_modules/
+.env
+.env.*
+!.env.example
+frontend/build/
+*.log
+npm-debug.log*
+backend/uploads/id_cards/*
+backend/uploads/receipts/*
+backend/uploads/profiles/*
+backend/backups/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
